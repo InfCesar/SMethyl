@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smethyl.iml" filepath="$PROJECT_DIR$/.idea/modules/smethyl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smethyl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/smethyl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smethyl-core/smethyl-core.iml" filepath="$PROJECT_DIR$/smethyl-core/smethyl-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smethyl-native/smethyl-native.iml" filepath="$PROJECT_DIR$/smethyl-native/smethyl-native.iml" />
+    </modules>
+  </component>
+</project>
